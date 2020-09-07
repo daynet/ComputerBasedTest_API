@@ -1,0 +1,16 @@
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Release\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Release\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Release\cbt.viewModel.csprojResolveAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Release\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Release\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Release\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Release\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Release\cbt.viewModel.csprojResolveAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Release\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Release\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Release\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Release\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Release\cbt.viewModel.csprojAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Release\cbt.viewModel.csproj.CoreCompileInputs.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Release\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Release\cbt.viewModel.pdb

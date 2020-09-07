@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Cbtscoresheet" targetNamespace="http://tempuri.org/Cbtscoresheet.xsd" xmlns:mstns="http://tempuri.org/Cbtscoresheet.xsd" xmlns="http://tempuri.org/Cbtscoresheet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Cbtscoresheet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Cbtscoresheet" msprop:Generator_UserDSName="Cbtscoresheet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="StudentDetails" msprop:Generator_TableClassName="StudentDetailsDataTable" msprop:Generator_TableVarName="tableStudentDetails" msprop:Generator_TablePropName="StudentDetails" msprop:Generator_RowDeletingName="StudentDetailsRowDeleting" msprop:Generator_RowChangingName="StudentDetailsRowChanging" msprop:Generator_RowEvHandlerName="StudentDetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="StudentDetailsRowDeleted" msprop:Generator_UserTableName="StudentDetails" msprop:Generator_RowChangedName="StudentDetailsRowChanged" msprop:Generator_RowEvArgName="StudentDetailsRowChangeEvent" msprop:Generator_RowClassName="StudentDetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FirstName" msprop:Generator_ColumnVarNameInTable="columnFirstName" msprop:Generator_ColumnPropNameInRow="FirstName" msprop:Generator_ColumnPropNameInTable="FirstNameColumn" msprop:Generator_UserColumnName="FirstName" type="xs:string" minOccurs="0" />
+              <xs:element name="Email" msprop:Generator_ColumnVarNameInTable="columnEmail" msprop:Generator_ColumnPropNameInRow="Email" msprop:Generator_ColumnPropNameInTable="EmailColumn" msprop:Generator_UserColumnName="Email" type="xs:string" minOccurs="0" />
+              <xs:element name="DOB" msprop:Generator_ColumnVarNameInTable="columnDOB" msprop:Generator_ColumnPropNameInRow="DOB" msprop:Generator_ColumnPropNameInTable="DOBColumn" msprop:Generator_UserColumnName="DOB" type="xs:string" minOccurs="0" />
+              <xs:element name="MobileNo" msprop:Generator_ColumnVarNameInTable="columnMobileNo" msprop:Generator_ColumnPropNameInRow="MobileNo" msprop:Generator_ColumnPropNameInTable="MobileNoColumn" msprop:Generator_UserColumnName="MobileNo" type="xs:string" minOccurs="0" />
+              <xs:element name="City" msprop:Generator_ColumnVarNameInTable="columnCity" msprop:Generator_ColumnPropNameInRow="City" msprop:Generator_ColumnPropNameInTable="CityColumn" msprop:Generator_UserColumnName="City" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Introvert" msprop:Generator_TableClassName="IntrovertDataTable" msprop:Generator_TableVarName="tableIntrovert" msprop:Generator_TablePropName="Introvert" msprop:Generator_RowDeletingName="IntrovertRowDeleting" msprop:Generator_RowChangingName="IntrovertRowChanging" msprop:Generator_RowEvHandlerName="IntrovertRowChangeEventHandler" msprop:Generator_RowDeletedName="IntrovertRowDeleted" msprop:Generator_UserTableName="Introvert" msprop:Generator_RowChangedName="IntrovertRowChanged" msprop:Generator_RowEvArgName="IntrovertRowChangeEvent" msprop:Generator_RowClassName="IntrovertRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="questionBankId" msprop:Generator_ColumnVarNameInTable="columnquestionBankId" msprop:Generator_ColumnPropNameInRow="questionBankId" msprop:Generator_ColumnPropNameInTable="questionBankIdColumn" msprop:Generator_UserColumnName="questionBankId" type="xs:string" minOccurs="0" />
+              <xs:element name="answer" msprop:Generator_ColumnVarNameInTable="columnanswer" msprop:Generator_ColumnPropNameInRow="answer" msprop:Generator_ColumnPropNameInTable="answerColumn" msprop:Generator_UserColumnName="answer" type="xs:string" minOccurs="0" />
+              <xs:element name="altanswer" msprop:Generator_ColumnVarNameInTable="columnaltanswer" msprop:Generator_ColumnPropNameInRow="altanswer" msprop:Generator_ColumnPropNameInTable="altanswerColumn" msprop:Generator_UserColumnName="altanswer" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Sensitive" msprop:Generator_TableClassName="SensitiveDataTable" msprop:Generator_TableVarName="tableSensitive" msprop:Generator_TablePropName="Sensitive" msprop:Generator_RowDeletingName="SensitiveRowDeleting" msprop:Generator_RowChangingName="SensitiveRowChanging" msprop:Generator_RowEvHandlerName="SensitiveRowChangeEventHandler" msprop:Generator_RowDeletedName="SensitiveRowDeleted" msprop:Generator_UserTableName="Sensitive" msprop:Generator_RowChangedName="SensitiveRowChanged" msprop:Generator_RowEvArgName="SensitiveRowChangeEvent" msprop:Generator_RowClassName="SensitiveRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="questionBankId" msprop:Generator_ColumnVarNameInTable="columnquestionBankId" msprop:Generator_ColumnPropNameInRow="questionBankId" msprop:Generator_ColumnPropNameInTable="questionBankIdColumn" msprop:Generator_UserColumnName="questionBankId" type="xs:string" minOccurs="0" />
+              <xs:element name="answer" msprop:Generator_ColumnVarNameInTable="columnanswer" msprop:Generator_ColumnPropNameInRow="answer" msprop:Generator_ColumnPropNameInTable="answerColumn" msprop:Generator_UserColumnName="answer" type="xs:string" minOccurs="0" />
+              <xs:element name="altanswer" msprop:Generator_ColumnVarNameInTable="columnaltanswer" msprop:Generator_ColumnPropNameInRow="altanswer" msprop:Generator_ColumnPropNameInTable="altanswerColumn" msprop:Generator_UserColumnName="altanswer" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Thinking" msprop:Generator_TableClassName="ThinkingDataTable" msprop:Generator_TableVarName="tableThinking" msprop:Generator_TablePropName="Thinking" msprop:Generator_RowDeletingName="ThinkingRowDeleting" msprop:Generator_RowChangingName="ThinkingRowChanging" msprop:Generator_RowEvHandlerName="ThinkingRowChangeEventHandler" msprop:Generator_RowDeletedName="ThinkingRowDeleted" msprop:Generator_UserTableName="Thinking" msprop:Generator_RowChangedName="ThinkingRowChanged" msprop:Generator_RowEvArgName="ThinkingRowChangeEvent" msprop:Generator_RowClassName="ThinkingRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="questionBankId" msprop:Generator_ColumnVarNameInTable="columnquestionBankId" msprop:Generator_ColumnPropNameInRow="questionBankId" msprop:Generator_ColumnPropNameInTable="questionBankIdColumn" msprop:Generator_UserColumnName="questionBankId" type="xs:string" minOccurs="0" />
+              <xs:element name="answer" msprop:Generator_ColumnVarNameInTable="columnanswer" msprop:Generator_ColumnPropNameInRow="answer" msprop:Generator_ColumnPropNameInTable="answerColumn" msprop:Generator_UserColumnName="answer" type="xs:string" minOccurs="0" />
+              <xs:element name="altanswer" msprop:Generator_ColumnVarNameInTable="columnaltanswer" msprop:Generator_ColumnPropNameInRow="altanswer" msprop:Generator_ColumnPropNameInTable="altanswerColumn" msprop:Generator_UserColumnName="altanswer" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Judging" msprop:Generator_TableClassName="JudgingDataTable" msprop:Generator_TableVarName="tableJudging" msprop:Generator_TablePropName="Judging" msprop:Generator_RowDeletingName="JudgingRowDeleting" msprop:Generator_RowChangingName="JudgingRowChanging" msprop:Generator_RowEvHandlerName="JudgingRowChangeEventHandler" msprop:Generator_RowDeletedName="JudgingRowDeleted" msprop:Generator_UserTableName="Judging" msprop:Generator_RowChangedName="JudgingRowChanged" msprop:Generator_RowEvArgName="JudgingRowChangeEvent" msprop:Generator_RowClassName="JudgingRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="questionBankId" msprop:Generator_ColumnVarNameInTable="columnquestionBankId" msprop:Generator_ColumnPropNameInRow="questionBankId" msprop:Generator_ColumnPropNameInTable="questionBankIdColumn" msprop:Generator_UserColumnName="questionBankId" type="xs:string" minOccurs="0" />
+              <xs:element name="answer" msprop:Generator_ColumnVarNameInTable="columnanswer" msprop:Generator_ColumnPropNameInRow="answer" msprop:Generator_ColumnPropNameInTable="answerColumn" msprop:Generator_UserColumnName="answer" type="xs:string" minOccurs="0" />
+              <xs:element name="altanswer" msprop:Generator_ColumnVarNameInTable="columnaltanswer" msprop:Generator_ColumnPropNameInRow="altanswer" msprop:Generator_ColumnPropNameInTable="altanswerColumn" msprop:Generator_UserColumnName="altanswer" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

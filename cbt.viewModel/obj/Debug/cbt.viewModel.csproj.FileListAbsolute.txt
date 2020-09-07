@@ -1,0 +1,21 @@
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.viewModel\bin\Debug\cbt.viewModel.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.viewModel\bin\Debug\cbt.viewModel.pdb
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.viewModel\obj\Debug\cbt.viewModel.csproj.CoreCompileInputs.cache
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.viewModel\obj\Debug\cbt.viewModel.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.viewModel\obj\Debug\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Debug\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Debug\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Debug\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Debug\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Debug\cbt.viewModel.csprojResolveAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Debug\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Debug\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Debug\cbt.viewModel.csprojResolveAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Debug\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Debug\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Debug\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\bin\Debug\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Debug\cbt.viewModel.csprojAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Debug\cbt.viewModel.csproj.CoreCompileInputs.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Debug\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.viewModel\obj\Debug\cbt.viewModel.pdb

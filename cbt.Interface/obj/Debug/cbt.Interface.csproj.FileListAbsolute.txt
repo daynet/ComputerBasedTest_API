@@ -1,0 +1,104 @@
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\cbt.Interface.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\cbt.Interface.pdb
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Authentication.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\cbt.viewModel.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\cbt.dbEntity.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\EntityFramework.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Authentication.pdb
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Authentication.dll.config
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\cbt.viewModel.pdb
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\cbt.dbEntity.pdb
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\cbt.dbEntity.dll.config
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\EntityFramework.xml
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\obj\Debug\cbt.Interface.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\obj\Debug\cbt.Interface.csproj.CoreCompileInputs.cache
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\obj\Debug\cbt.Interface.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\obj\Debug\cbt.Interface.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Interface\obj\Debug\cbt.Interface.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.Interface.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.Interface.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Authentication.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.dbEntity.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\EntityFramework.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Authentication.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Authentication.dll.config
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.dbEntity.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.dbEntity.dll.config
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\EntityFramework.xml
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.csprojResolveAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.Interface.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.Interface.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Authentication.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.dbEntity.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\EntityFramework.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Authentication.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Authentication.dll.config
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.dbEntity.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.dbEntity.dll.config
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\EntityFramework.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.csprojResolveAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.Interface.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.Interface.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Authentication.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.dbEntity.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.viewModel.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\EntityFramework.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Authentication.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Authentication.dll.config
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.dbEntity.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.dbEntity.dll.config
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\cbt.viewModel.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\EntityFramework.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.csprojAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.csproj.CoreCompileInputs.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.csproj.CopyComplete
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Interface\obj\Debug\cbt.Interface.pdb

@@ -1,0 +1,44 @@
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\bin\Debug\cbt.dbEntity.dll.config
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\bin\Debug\cbt.dbEntity.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\bin\Debug\cbt.dbEntity.pdb
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\bin\Debug\EntityFramework.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\bin\Debug\EntityFramework.xml
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\obj\Debug\cbt.dbEntity.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\obj\Debug\cbt.dbEntity.csproj.CoreCompileInputs.cache
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\obj\Debug\cbt.dbEntity.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\obj\Debug\cbt.dbEntity.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.dbEntity\obj\Debug\cbt.dbEntity.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\cbt.dbEntity.dll.config
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\cbt.dbEntity.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\cbt.dbEntity.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.xml
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.csprojResolveAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\cbt.dbEntity.dll.config
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\cbt.dbEntity.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\cbt.dbEntity.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.csprojResolveAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\cbt.dbEntity.dll.config
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\cbt.dbEntity.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\cbt.dbEntity.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.csprojAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.csproj.CoreCompileInputs.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.csproj.CopyComplete
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.dbEntity\obj\Debug\cbt.dbEntity.pdb

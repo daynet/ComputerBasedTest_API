@@ -1,0 +1,22 @@
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Common\bin\Debug\cbt.Common.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Common\bin\Debug\cbt.Common.pdb
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Common\obj\Debug\cbt.Common.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Common\obj\Debug\cbt.Common.csproj.CoreCompileInputs.cache
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Common\obj\Debug\cbt.Common.dll
+C:\Users\isah.yarima\Documents\Projects\SUN.ComputerBasedTest\cbt.Common\obj\Debug\cbt.Common.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Common\bin\Debug\cbt.Common.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Common\bin\Debug\cbt.Common.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Common\obj\Debug\cbt.Common.dll
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Common\obj\Debug\cbt.Common.pdb
+C:\Users\mustapha.oladayo\Desktop\SKYLINECBT\SUN.ComputerBasedTest - Copy\cbt.Common\obj\Debug\cbt.Common.csprojResolveAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Common\bin\Debug\cbt.Common.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Common\bin\Debug\cbt.Common.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Common\obj\Debug\cbt.Common.csprojResolveAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Common\obj\Debug\cbt.Common.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\SUN.ComputerBasedTest - Copy\cbt.Common\obj\Debug\cbt.Common.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Common\bin\Debug\cbt.Common.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Common\bin\Debug\cbt.Common.pdb
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Common\obj\Debug\cbt.Common.csprojAssemblyReference.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Common\obj\Debug\cbt.Common.csproj.CoreCompileInputs.cache
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Common\obj\Debug\cbt.Common.dll
+C:\Users\mustapha.oladayo\Desktop\FINALCBT\BE\SUN.ComputerBasedTest - Copy\cbt.Common\obj\Debug\cbt.Common.pdb
